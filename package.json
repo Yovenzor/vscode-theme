@@ -1,0 +1,38 @@
+{
+  "name": "goosebumps-at-midnight",
+  "displayName": "Goosebumps at midnight",
+  "description": "This theme gives you goosebumps; Specially at midnight!",
+  "publisher": "Goosebumpsatmidnight",
+  "version": "2.15.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yovenzor/vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Goosebumps",
+    "midnight",
+    "yovenzor"
+  ],
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Goosebumps at midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Goosebumps at midnight-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
+
+
