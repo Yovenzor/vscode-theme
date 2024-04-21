@@ -2,8 +2,9 @@
   "name": "goosebumps-at-midnight",
   "displayName": "Goosebumps at midnight",
   "description": "This theme gives you goosebumps; Specially at midnight!",
-  "publisher": "Goosebumpsatmidnight",
-  "version": "2.15.0",
+  "publisher": "yovenzorsingh",
+  "icon": "logo.png",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Yovenzor/vscode-theme"
@@ -13,7 +14,8 @@
     "dark theme",
     "Goosebumps",
     "midnight",
-    "yovenzor"
+    "yovenzor",
+    "singh"
   ],
   "engines": {
     "vscode": "^1.52.0"
