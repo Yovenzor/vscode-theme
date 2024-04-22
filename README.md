@@ -6,11 +6,10 @@
 This theme gives you goosebumps; Especially at midnight! 🦉🌙
 
 ## Installation
-
-    1. Open **Visual Studio Code**
-    2. Go to **Extensions**
-    3. Search for **Goosebumps at Midnight**
-    4. Click **Install**
+Simply launch VSCode and open **Quick Open** ( Ctrl+P ) & type this command:
+ 
+    ext install YovenzorSingh.goosebumps-at-midnight
+    
 
 ## Author
 
